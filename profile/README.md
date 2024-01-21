@@ -2,14 +2,15 @@
 
 Short Courses:
 1. Introduction to Data Science and Machine Learning [(I.DSML)](https://github.com/CytiVen/Intro-DSML)
-2. Advanced Data Science and Machine Learning [(A.DSML)](https://github.com/CytiVen/Adv-DSML)
-3. Engineering Data Science and Machine Learning [(E.DSML)](https://github.com/CytiVen/Eng-DSML)
 
 Presentations:
 - La Inteligencia Artificial en la Ingenieria de Recursos Energeticos [(link)](https://github.com/CytiVen/IA-Recursos-Energeticos)
 
 
 <!--
+2. Advanced Data Science and Machine Learning [(A.DSML)](https://github.com/CytiVen/Adv-DSML)
+3. Engineering Data Science and Machine Learning [(E.DSML)](https://github.com/CytiVen/Eng-DSML)
+
 ## Hi there 👋
 
 **Here are some ideas to get you started:**
