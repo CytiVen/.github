@@ -1,5 +1,8 @@
 # CytiVen
 
+contact: cytiven@gmail.com
+***
+
 Short Courses:
 1. Introduction to Data Science and Machine Learning [(I.DSML)](https://github.com/CytiVen/Intro-DSML)
 2. Advanced Data Science and Machine Learning
