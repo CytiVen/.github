@@ -6,7 +6,8 @@ contact: cytiven@gmail.com
 Short Courses:
 1. Introduction to Data Science and Machine Learning [(I.DSML)](https://github.com/CytiVen/Intro-DSML)
 2. Advanced Data Science and Machine Learning
-3. Introduction to Artificial Intelligence in Energy Engineering [(AI-NRG)](https://github.com/CytiVen/Intro-AI-NRG-2026)
+3. Intro to Mathematics and Scientific Computing [(SciML)](https://github.com/CytiVen/Intro-Math-and-SciComputing)
+4. Introduction to Artificial Intelligence in Energy Engineering [(AI-NRG)](https://github.com/CytiVen/Intro-AI-NRG-2026)
 
 Presentations:
 - La Inteligencia Artificial en la Ingenieria de Recursos Energeticos [(link)](https://github.com/CytiVen/IA-Recursos-Energeticos)
